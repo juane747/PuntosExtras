@@ -1,8 +1,8 @@
-Unidad 1
-Introduccion a la Programacion.
+# Unidad 1
+## Introduccion a la Programacion.
 
-Sistema binario
-Logico
-Algoritmo
-Programacion
-Analisis
+1. Sistema binario
+2. Logico
+3. Algoritmo
+4. Programacion
+5. Analisis
